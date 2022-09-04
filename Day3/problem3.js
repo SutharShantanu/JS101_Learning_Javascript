@@ -1,0 +1,1 @@
+// Problem 3: Given 2 numbers a and b print which is greater or "both equal".
